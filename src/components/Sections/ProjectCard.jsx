@@ -29,17 +29,6 @@ export default function ProjectCard() {
             Un proyecto personal que busca generar regalos interactivos utilizando la programación como herramienta principal para la creación de experiencias únicas.
           </p>
 
-          <div className="flex gap-3 flex-wrap mt-auto">
-            {/* Placeholders para tecnologías */}
-            {[1, 2, 3].map((_, i) => (
-              <div
-                key={i}
-                className="w-10 h-10 rounded-xl bg-black/5 dark:bg-white/5 border border-zinc-200 dark:border-white/5 flex items-center justify-center text-zinc-400 text-[10px]"
-              >
-                ICON
-              </div>
-            ))}
-          </div>
         </div>
 
       </div>
