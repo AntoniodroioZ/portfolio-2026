@@ -19,8 +19,8 @@ export default function HeroCard() {
         </h2>
         <p className="text-zinc-600 dark:text-zinc-400 text-sm md:text-base leading-relaxed max-w-lg mb-4 font-medium">
 
-          Más de tres años desarrollando servicios robustos para clientes internos y externos.
-          Enfocado en <span className="text-emerald font-bold">Golang</span> y <span className="text-emerald font-bold">Python</span>, 
+          Más de cuatro años desarrollando servicios robustos para clientes internos y externos.
+          Enfocado en <span className="text-emerald font-bold">Golang</span> y <span className="text-emerald font-bold">Python</span>,
           con experiencia profunda en DevOps e integraciones escalables.
         </p>
       </div>
