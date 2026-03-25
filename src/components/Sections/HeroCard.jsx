@@ -21,7 +21,7 @@ export default function HeroCard() {
 
           Más de cuatro años desarrollando servicios robustos para clientes internos y externos.
           Enfocado en <span className="text-emerald font-bold">Golang</span> y <span className="text-emerald font-bold">Python</span>,
-          con experiencia profunda en DevOps e integraciones escalables.
+          con experiencia en integraciones escalables.
         </p>
       </div>
     </BentoCard>
